@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+@theme {
+  --color-primary-50: #e2f9fe;
+  --color-primary-100: #c9f5fc;
+  --color-primary-200: #8feafa;
+  --color-primary-300: #5adff7;
+  --color-primary-400: #1fd4f4;
+  --color-primary-500: #0ab2d0;
+  --color-primary-600: #088ea5;
+  --color-primary-700: #066c7f;
+  --color-primary-800: #044753;
+  --color-primary-900: #02262c;
+  --color-primary-950: #011113;
+  --color-secondary-50: #ebf9f6;
+  --color-secondary-100: #d4f2ec;
+  --color-secondary-200: #a8e6d8;
+  --color-secondary-300: #7dd9c5;
+  --color-secondary-400: #51ccb2;
+  --color-secondary-500: #34b296;
+  --color-secondary-600: #298e78;
+  --color-secondary-700: #1f6b5a;
+  --color-secondary-800: #15473c;
+  --color-secondary-900: #0a241e;
+  --color-secondary-950: #061411;
+	--color-primary: var(--color-primary-900); /* Custom Primary Color */
+  --color-secondary: var(--color-secondary-900); /* Custom Secondary Color */
+	--ui-primary: var(--color-primary); /* Custom Primary Color */
+	--ui-secondary: var(--color-secondary); /* Custom Secondary Color */
+	
+}
+:root {
+	@theme {
+		--color-primary-50: #e2f9fe;
+		--color-primary-100: #c9f5fc;
+		--color-primary-200: #8feafa;
+		--color-primary-300: #5adff7;
+		--color-primary-400: #1fd4f4;
+		--color-primary-500: #0ab2d0;
+		--color-primary-600: #088ea5;
+		--color-primary-700: #066c7f;
+		--color-primary-800: #044753;
+		--color-primary-900: #02262c;
+		--color-primary-950: #011113;
+	}
+	--color-primary: #06212c; /* Custom Primary Color */
+	--color-secondary: #34B296; /* Custom Secondary Color */
+}

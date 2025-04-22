@@ -1,0 +1,56 @@
+{
+	"welcome": "Welcome",
+	"login": {
+		"title": "Login",
+		"phoneNumber": "Phone Number",
+		"email": "Email",
+		"password": "Password",
+		"rememberMe": "Remember me",
+		"forgotPassword": "Forgot password?",
+		"loginButton": "Login",
+		"noAccount": "Don't have an account?",
+		"signUpButton": "Sign Up"
+	},
+	"register": {
+		"title": "Create Account",
+		"name": "Full Name",
+		"email": "Email",
+		"password": "Password",
+		"confirmPassword": "Confirm Password",
+		"signUpButton": "Register"
+	},
+	"resetPassword": {
+		"title": "Reset Password",
+		"email": "Email",
+		"sendButton": "Send Reset Link"
+	},
+	"dashboard": {
+		"title": "Dashboard"
+	},
+	"general": {
+		"loading": "Loading...",
+		"error": "Error",
+		"success": "Success",
+		"warning": "Warning",
+		"info": "Info",
+		"ok": "OK",
+		"cancel": "Cancel",
+		"close": "Close",
+		"yes": "Yes",
+		"no": "No"
+	},
+	"validations": {
+		"required": "This field is required",
+		"email": "Please enter a valid email address",
+		"minLength": "The field must be at least {min} characters long",
+		"password": {
+			"uppercase": "Password must contain at least one uppercase letter",
+			"lowercase": "Password must contain at least one lowercase letter",
+			"number": "Password must contain at least one number",
+			"specialChar": "Password must contain at least one special character"
+		},
+		"confirmPassword": {
+			"match": "Passwords do not match"
+		}
+	}
+}

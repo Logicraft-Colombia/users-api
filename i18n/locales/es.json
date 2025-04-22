@@ -1,0 +1,56 @@
+{
+	"welcome": "Bienvenido",
+	"login": {
+		"title": "Iniciar sesión",
+		"phoneNumber": "Celular",
+		"email": "Correo electrónico",
+		"password": "Contraseña",
+		"rememberMe": "Recuérdame",
+		"forgotPassword": "Olvidé mi contraseña",
+		"loginButton": "Iniciar sesión",
+		"noAccount": "¿No tienes una cuenta?",
+		"signUpButton": "Regístrate"
+	},
+	"register": {
+		"title": "Crear cuenta",
+		"name": "Nombre completo",
+		"email": "Correo electrónico",
+		"password": "Contraseña",
+		"confirmPassword": "Confirmar contraseña",
+		"signUpButton": "Registrarse"
+	},
+	"resetPassword": {
+		"title": "Restablecer contraseña",
+		"email": "Correo electrónico",
+		"sendButton": "Enviar enlace de restablecimiento"
+	},
+	"dashboard": {
+		"title": "Tablero de control"
+	},
+	"general": {
+		"loading": "Cargando...",
+		"error": "Error",
+		"success": "Éxito",
+		"warning": "Advertencia",
+		"info": "Información",
+		"ok": "Aceptar",
+		"cancel": "Cancelar",
+		"close": "Cerrar",
+		"yes": "Sí",
+		"no": "No"
+	},
+	"validations": {
+		"required": "Este campo es obligatorio",
+		"email": "Por favor, introduce un correo electrónico válido",
+		"minLength": "El campo debe tener al menos {min} caracteres",
+		"password": {
+			"uppercase": "La contraseña debe contener al menos una letra mayúscula",
+			"lowercase": "La contraseña debe contener al menos una letra minúscula",
+			"number": "La contraseña debe contener al menos un número",
+			"specialChar": "La contraseña debe contener al menos un carácter especial"
+		},
+		"confirmPassword": {
+			"match": "Las contraseñas no coinciden"
+		}
+	}
+}
